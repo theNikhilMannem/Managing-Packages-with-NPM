@@ -1,5 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Nikhil M Kumar",
+	"description": "Backend Challenges with NPM",
+	"version": "0.0.1",
+	"keywords": [
+		"learning",
+		"practicing",
+		"freecodecamp"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -13,5 +21,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"license": "MIT"
 }
